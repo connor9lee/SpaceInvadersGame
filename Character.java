@@ -5,7 +5,7 @@ import javax.imageio.ImageIO;
 
 abstract class Character
 {
-    int x;
+     int x;
     int y;
     int w;
     int h;
